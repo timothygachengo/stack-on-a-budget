@@ -4,6 +4,7 @@
 
 - [Checkbot](#checkbot)
 - [RatedWithAI](#ratedwithai)
+- [WebsiteReady](#websiteready)
 
 <!-- /TOC -->
 
@@ -21,3 +22,10 @@
 * *Free tier*: Free website accessibility scan with WCAG 2.2 compliance scoring, issue detection, and remediation guidance. No account required.
 * *Pros*: AI-powered accessibility checker that scans web pages for WCAG 2.1/2.2 violations across all levels (A, AA, AAA). Provides plain-language explanations and fix suggestions. Covers color contrast, alt text, heading structure, ARIA attributes, and more.
 * *Limitations*: Free tier limited to single-page scans. Bulk scanning and monitoring require a paid plan.
+
+## WebsiteReady
+
+[Pricing page](https://websiteready.org/?utm_source=stack-on-a-budget&utm_medium=github_resource&utm_campaign=wr_backlink)
+
+* *Free tier*: Free website launch-readiness checks for SEO basics, crawlability, sitemap, robots.txt, analytics signals, security headers, legal-page presence, broken links, and AI search readiness.
+* *Pros*: No account required. Returns a launch recommendation with prioritized fixes, making it useful before shipping a new marketing site, AI tool, or side project.
